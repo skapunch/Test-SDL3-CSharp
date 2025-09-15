@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDL2.5-Sound", "SDL2.5-Sound.csproj", "{A902614C-0D9F-A11C-9E25-F26EDCE69253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A902614C-0D9F-A11C-9E25-F26EDCE69253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A902614C-0D9F-A11C-9E25-F26EDCE69253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A902614C-0D9F-A11C-9E25-F26EDCE69253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A902614C-0D9F-A11C-9E25-F26EDCE69253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF53435B-E009-402C-A163-8F9100DFD962}
+	EndGlobalSection
+EndGlobal

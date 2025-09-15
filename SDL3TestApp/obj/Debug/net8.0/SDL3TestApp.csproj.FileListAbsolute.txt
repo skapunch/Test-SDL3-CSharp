@@ -1,0 +1,14 @@
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/bin/Debug/net8.0/SDL3TestApp
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/bin/Debug/net8.0/SDL3TestApp.deps.json
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/bin/Debug/net8.0/SDL3TestApp.runtimeconfig.json
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/bin/Debug/net8.0/SDL3TestApp.dll
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/bin/Debug/net8.0/SDL3TestApp.pdb
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/obj/Debug/net8.0/SDL3TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/obj/Debug/net8.0/SDL3TestApp.AssemblyInfoInputs.cache
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/obj/Debug/net8.0/SDL3TestApp.AssemblyInfo.cs
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/obj/Debug/net8.0/SDL3TestApp.csproj.CoreCompileInputs.cache
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/obj/Debug/net8.0/SDL3TestApp.dll
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/obj/Debug/net8.0/refint/SDL3TestApp.dll
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/obj/Debug/net8.0/SDL3TestApp.pdb
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/obj/Debug/net8.0/SDL3TestApp.genruntimeconfig.cache
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3TestApp/obj/Debug/net8.0/ref/SDL3TestApp.dll

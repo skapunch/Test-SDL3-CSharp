@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SDL3-with-image/1.0.0": {
+        "runtime": {
+          "SDL3-with-image.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDL3-with-image/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

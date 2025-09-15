@@ -1,0 +1,11 @@
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/obj/Debug/net8.0/SDL3-with-image.GeneratedMSBuildEditorConfig.editorconfig
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/obj/Debug/net8.0/SDL3-with-image.AssemblyInfoInputs.cache
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/obj/Debug/net8.0/SDL3-with-image.AssemblyInfo.cs
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/obj/Debug/net8.0/SDL3-with-image.csproj.CoreCompileInputs.cache
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/bin/Debug/net8.0/SDL3-with-image.deps.json
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/bin/Debug/net8.0/SDL3-with-image.dll
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/bin/Debug/net8.0/SDL3-with-image.pdb
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/obj/Debug/net8.0/SDL3-with-image.dll
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/obj/Debug/net8.0/refint/SDL3-with-image.dll
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/obj/Debug/net8.0/SDL3-with-image.pdb
+/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/obj/Debug/net8.0/ref/SDL3-with-image.dll

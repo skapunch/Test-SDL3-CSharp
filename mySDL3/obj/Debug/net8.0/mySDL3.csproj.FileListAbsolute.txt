@@ -1,0 +1,9 @@
+/home/khoa-deb/SDL3-CS/SDL3-CS/mySDL3/obj/Debug/net8.0/mySDL3.GeneratedMSBuildEditorConfig.editorconfig
+/home/khoa-deb/SDL3-CS/SDL3-CS/mySDL3/obj/Debug/net8.0/mySDL3.AssemblyInfoInputs.cache
+/home/khoa-deb/SDL3-CS/SDL3-CS/mySDL3/obj/Debug/net8.0/mySDL3.AssemblyInfo.cs
+/home/khoa-deb/SDL3-CS/SDL3-CS/mySDL3/obj/Debug/net8.0/mySDL3.csproj.CoreCompileInputs.cache
+/home/khoa-deb/SDL3-CS/SDL3-CS/mySDL3/obj/Debug/net8.0/mySDL3.sourcelink.json
+/home/khoa-deb/dotnet-projects/TestSDL3/mySDL3/obj/Debug/net8.0/mySDL3.GeneratedMSBuildEditorConfig.editorconfig
+/home/khoa-deb/dotnet-projects/TestSDL3/mySDL3/obj/Debug/net8.0/mySDL3.AssemblyInfoInputs.cache
+/home/khoa-deb/dotnet-projects/TestSDL3/mySDL3/obj/Debug/net8.0/mySDL3.AssemblyInfo.cs
+/home/khoa-deb/dotnet-projects/TestSDL3/mySDL3/obj/Debug/net8.0/mySDL3.csproj.CoreCompileInputs.cache

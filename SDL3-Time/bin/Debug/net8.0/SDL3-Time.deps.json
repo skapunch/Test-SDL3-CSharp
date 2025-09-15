@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SDL3-Time/1.0.0": {
+        "dependencies": {
+          "SDL3-with-image": "1.0.0",
+          "TestAsset": "1.0.0"
+        },
+        "runtime": {
+          "SDL3-Time.dll": {}
+        }
+      },
+      "SDL3-with-image/1.0.0": {
+        "runtime": {
+          "SDL3-with-image.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TestAsset/1.0.0": {
+        "runtime": {
+          "TestAsset.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDL3-Time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDL3-with-image/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestAsset/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

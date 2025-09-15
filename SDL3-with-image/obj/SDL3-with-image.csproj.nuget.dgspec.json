@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/SDL3-with-image.csproj": {}
+  },
+  "projects": {
+    "/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/SDL3-with-image.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/SDL3-with-image.csproj",
+        "projectName": "SDL3-with-image",
+        "projectPath": "/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/SDL3-with-image.csproj",
+        "packagesPath": "/home/khoa-deb/.nuget/packages/",
+        "outputPath": "/home/khoa-deb/dotnet-projects/TestSDL3/SDL3-with-image/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/khoa-deb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/home/khoa-deb/ImGui.NET/package/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/khoa-deb/.dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
